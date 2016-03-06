@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Get Fit With Debbie]]></title>
+        <description><![CDATA[Get Fit With Debbie]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Mar 2016 15:28:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A Little Bit About You</p>]]></description>
+            <link>undefinede8a4da66-2838-49e5-ac90-00824ad5d791/index.html</link>
+            <guid isPermaLink="false">e8a4da66-2838-49e5-ac90-00824ad5d791</guid>
+            <pubDate>Sun, 06 Mar 2016 15:28:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
