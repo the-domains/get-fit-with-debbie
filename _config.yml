@@ -1,28 +1,40 @@
-name: Get Fit With Debbie
 favicon: null
-layout_spectrum: 0.16923
-typography_spectrum: 0.4261994392145425
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Get Fit With Debbie
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#ffffff'
-    - '#cdc6be'
-    - '#a3521d'
-    - '#06080c'
-    - '#0c5d9b'
+  saturation: 0.5
   brandStrength: 0.6875
   lightness: 0.3125
-  saturation: 0.5
-  rhythmicContrast: 0.16386109520681202
-purpose: []
+  brandColors:
+    - '#1F201E'
+    - '#CED06E'
+    - '#FFFDFF'
+    - '#77881F'
+    - '#92BDFF'
+  rhythmicContrast: 0.163861095206812
+typography_spectrum: 0.4261994392145425
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.16923
+analytics:
+  twitter: null
+  google: null
+  facebook: null
